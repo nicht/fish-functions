@@ -1,3 +1,3 @@
 function search
-    open https://google.com/"$argv"
+    googler --exact $argv
 end
